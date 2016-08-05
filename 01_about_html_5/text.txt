@@ -1,0 +1,24 @@
+New HTML5 Elements
+
+The most interesting new elements are:
+
+New semantic elements like <header>, <footer>, <article>, and <section>.
+
+New form control attributes like number, date, time, calendar, and range.
+
+New graphic elements: <svg> and <canvas>.
+
+New multimedia elements: <audio> and <video>.
+
+..............
+
+New HTML5 API's (Application Programming Interfaces)
+
+The most interesting new API's are:
+
+HTML Geolocation
+HTML Drag and Drop
+HTML Local Storage
+HTML Application Cache
+HTML Web Workers
+HTML SSE
